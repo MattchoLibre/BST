@@ -1,8 +1,7 @@
 #include "program4.h"
 
 /*
-Matthew Penner
-Professor Fant - CS163 Data Structures
+
 
 This is the cpp file that contains code for the table class.  I have several wrapper functions and private access functions that are all mostly recursive.  
 These functions are crucial as being part of my BST data structure.  
