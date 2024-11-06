@@ -3,8 +3,6 @@
 /*
 
 
-Matthew Penner
-Professor Fant - CS163 Data Structures
 
 This is the .h file that contains all of the structs and classes used for this program.  I have several wrapper functions and private access functions that are all mostly 
 recursive.  These functions are crucial as being part of my BST data structure.  I additionally have my animal struct with its respective functions, many of which are the exact same 
