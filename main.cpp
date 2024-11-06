@@ -1,7 +1,6 @@
 #include "program4.h"
 /*
-Matthew Penner
-Professor Fant - CS163 Data Structures
+
 
 This is the main .cpp where I have the menu interface in which the client can test the functions.  I used a function for the menu interface so that the main function
 is not overcomplicated.  The main function consists of a simple while loop that continuously runs the menu_interface program until the user quits.
