@@ -2,9 +2,6 @@
 /*
 
 
-Matthew Penner
-Professor Fant - CS163 Data Structures
-
 This is the animal .cpp file where I have the constructor, destructor, and respective functions that allow for the program to work efficiently with as minimal
 memory leaks as possible.
 */
